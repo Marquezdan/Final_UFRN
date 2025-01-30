@@ -1,4 +1,5 @@
-Classificação de Imagens com Transfer Learning – UFRN
+Classificação de Imagens com Transfer Learning & Fine-tuning
+
 Este projeto, desenvolvido como parte do trabalho final da disciplina de Machine Learning da UFRN, tem como objetivo aplicar técnicas de transfer learning para a classificação de imagens.
 
 A abordagem utilizou os modelos pré-treinados VGG16 e técnicas de:
@@ -12,7 +13,7 @@ Acurácia final com Fine-Tuning: 91.98% (treino), 89.53% (validação)
 Perda (Loss) melhorada significativamente após o ajuste fino do modelo.
 
 ✏️ Autoria
-Projeto realizado por: Daniel Marques, Paulo eduardo
+Projeto realizado por: Daniel Marques, Paulo Eduardo
 
 🔗 Link do médium: https://medium.com/@pauloeduardossantos/feature-extraction-e-fine-tuning-aprimore-modelos-de-deep-learning-com-transfer-learning-4d0435d2da1e
 
